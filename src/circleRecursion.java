@@ -1,4 +1,3 @@
-//package ch03.fractals;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
